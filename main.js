@@ -4,7 +4,7 @@ function createwindow() {
         width: 800,
         height: 600,
     })
-window.loadFile('src/pages/dashboard.html');
+window.loadFile('src/pages/cadastro.html');
 }
 app.whenReady().then( () => {
     createwindow();
